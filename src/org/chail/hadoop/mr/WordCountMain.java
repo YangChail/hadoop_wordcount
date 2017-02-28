@@ -1,4 +1,4 @@
-package org.conan.myhadoop.mr;
+package org.chail.hadoop.mr;
 
 import java.io.IOException;
 
